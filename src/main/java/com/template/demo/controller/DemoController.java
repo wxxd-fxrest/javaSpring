@@ -33,7 +33,6 @@ public class DemoController {
         return "바보 " + name;
     }
 
-
     @GetMapping("hello-api")
     @ResponseBody
     public WOOD helloApi(@RequestParam("name") String name, @RequestParam("age") int age, @RequestParam("phone") int phone) {

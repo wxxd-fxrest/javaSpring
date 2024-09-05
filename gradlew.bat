@@ -13,6 +13,11 @@
 @rem See the License for the specific language governing permissions and
 @rem limitations under the License.
 @rem
+<<<<<<< HEAD
+=======
+@rem SPDX-License-Identifier: Apache-2.0
+@rem
+>>>>>>> 176382e (회원 등록)
 
 @if "%DEBUG%"=="" @echo off
 @rem ##########################################################################
